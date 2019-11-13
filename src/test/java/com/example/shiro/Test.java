@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 
 public class Test {
     public static void main(String[] args) throws Exception {
+         System.out.println("hw");
        /* String t = "<order></order>123456";
         MD5 md5 = new MD5();
         Base64Helper base = new Base64Helper();
